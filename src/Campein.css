@@ -1,0 +1,53 @@
+.donationCampein {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    border-radius: 0;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.donationCampein h1 {
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+}
+
+.donationCampein h2:last-of-type {
+    margin: 1rem 0; 
+}
+
+.percentContainer {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.percentBackGround {
+    background-color: #e0e0e0;
+    height: 30px;
+    border-radius: 15px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.percent {
+    height: 100%;
+    background-color: #2a8428;
+    transition: width 0.3s ease-in-out;
+}
+
+.percentText {
+    font-size: 20px;
+    margin-top: 10px;
+}
+.img{
+    padding-top:8%;
+    height: 600px;
+    width: 90%;
+}
+

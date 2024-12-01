@@ -1,0 +1,20 @@
+/* .head{
+      background-color: rgba(0, 0, 0, 0.5)
+} */
+.button {
+    font-size: 15px;
+    padding: 10px 10px;
+    margin-right: 30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .link{
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      color: darkgreen;
+      font-size: 25px;
+      margin-left: 100px;
+
+  }
+  
